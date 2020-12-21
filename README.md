@@ -21,7 +21,7 @@
 ### 3. 作品
 
 * LaravelをAWSにデプロイしたアプリケーション
-  * [トップページ](http://ec2-54-249-215-182.ap-northeast-1.compute.amazonaws.com:8000/)
+  * [トップページ](http://www.aijumemoapp.com/)
   * [Github](https://github.com/aiju-k/book_memo_app)
 * ポートフォリオサイト
   * [ページ](https://aiju-k.github.io/portfolio/)
